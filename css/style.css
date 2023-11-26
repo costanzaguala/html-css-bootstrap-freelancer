@@ -10,6 +10,11 @@
     background-color: #18BC9B;
 }
 
+.text-section-green {
+    color: white;
+    background-color: #18BC9B;
+}
+
 .avatar {
     max-width: 250px;
 }
@@ -38,4 +43,8 @@
 
 .img-fluid {
     border-radius: 25px;
+}
+
+.form-control:focus {
+    box-shadow: none;
 }
